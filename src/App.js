@@ -6,6 +6,7 @@ import Services from './Components/Services';
 import './index.css';
 import Footer from './Components/Footer';
 import Facilities from './Components/Facilities';
+import About from './Components/About';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Imageslider/>
       <Services/>
       <Facilities/>
+      <About/>
       <Footer/>
       {/* <button onClick={handleOpenDoctorManagement}>Open Doctor Management</button> */}
     </div>

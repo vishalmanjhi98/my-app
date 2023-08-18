@@ -10,8 +10,8 @@ function ColorSchemesExample() {
           <Navbar.Brand style={{width:"160px", fontSize:"20px"}} href="#home"><b>Triple Top Pattern</b></Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Our Services</Nav.Link>
-            <Nav.Link href="#pricing">About Us</Nav.Link>
+            <Nav.Link href="#Our Services">Our Services</Nav.Link>
+            <Nav.Link href="#About Us">About Us</Nav.Link>
           </Nav>
         </Container>
         <form class="form-inline">

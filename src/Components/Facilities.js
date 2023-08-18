@@ -20,7 +20,7 @@ const Demo = () => {
       <div className="w-full md:w-1/2 p-8 flex items-center justify-center">
         <div className="text-white">
         <h2 className="text-1xl font-bold mb-4">My Real Estate</h2>
-          <h2 className="text-3xl font-bold mb-4">Why Choose Our Properties?</h2>
+          <h2 className="text-3xl font-bold mb-4">Why Choose Our Hospital</h2>
           <ul className="list-disc list-inside mb-8">
             {/* <li className="flex items-center space-x-4">
               <img src={houseIcon} alt="House Icon" className="w-8 h-8" />

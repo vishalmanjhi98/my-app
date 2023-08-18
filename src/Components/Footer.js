@@ -74,7 +74,7 @@ function Footer() {
 <div class="container">
 <div class="row">
 <div class="col-md-12 text-center">
-<p>Copyright Company Name © 2022. All rights reserved.</p>
+<p>Copyright Company Name © 2023. All rights reserved.</p>
 </div>
 </div>
 </div>
