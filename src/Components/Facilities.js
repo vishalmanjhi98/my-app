@@ -22,18 +22,26 @@ const Demo = () => {
         <h2 className="text-1xl font-bold mb-4">My Real Estate</h2>
           <h2 className="text-3xl font-bold mb-4">Why Choose Our Properties?</h2>
           <ul className="list-disc list-inside mb-8">
-            <li className="flex items-center space-x-4">
-              {/* <img src={houseIcon} alt="House Icon" className="w-8 h-8" /> */}
+            {/* <li className="flex items-center space-x-4">
+              <img src={houseIcon} alt="House Icon" className="w-8 h-8" />
               <span>Spacious and comfortable living spaces</span>
             </li>
             <li className="flex items-center space-x-4 my-10">
-              {/* <img src={locationIcon} alt="Location Icon" className="w-8 h-8" /> */}
+              <img src={locationIcon} alt="Location Icon" className="w-8 h-8" />
               <span>Located in prime areas with excellent infrastructure</span>
             </li>
             <li className="flex items-center space-x-4 my-10">
-              {/* <img src={moneyIcon} alt="Money Icon" className="w-8 h-8" /> */}
+              <img src={moneyIcon} alt="Money Icon" className="w-8 h-8" />
               <span>Affordable prices and flexible payment plans</span>
-            </li>
+            </li> */}
+            <p>TTP Health’s COMMUNITY Front Door simplifies healthcare navigation by providing a unified hub for all consumer interactions. The user-friendly interface guides people to the right resources and services for 24/7 streamlined access to care. Put more power in the hands of patients
+Our health system is facing multiple simultaneous pressures including overburdened healthcare workers, frustrated patients and caregivers, increasing costs and large equity gaps when it comes to healthcare access and delivery. 
+
+TTP Health’s Digital Front Door enables all healthcare interactions to occur through a single  channel including symptom assessments, trusted health information,  referrals, access to complete medical records,  care and remote monitoring.
+
+Our platform removes traditional barriers to care to engage people as active participants in their health journey. From symptom assessments to electronic referrals to virtual care and everything in between — we provide consumers with the convenience and support they need on their journey to better health. 
+
+We work with organizations at all stages of  Management  and health to create and implement a  platform that fits the needs of your organization and the communities you serve.</p>
           </ul>
         </div>
       </div>
