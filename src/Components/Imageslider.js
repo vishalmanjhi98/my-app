@@ -51,16 +51,24 @@ const MyImageCarousel = () => {
   ];
 
   return (
+    <>
+    <br  id="home" ></br>
     <div>
-        <div style={{ display: "flex", alignItems: "center" }}>
+        <div style={{ display: "flex", alignItems: "center", paddingTop:"15px" }}>
     <div style={{ flex: 1, backgroundColor: "#6F38C5", height: "3px" }} />
  
-    <p style={{ margin: "0 10px" }}><h1>𝐓𝐫𝐢𝐩𝐥𝐞 𝐓𝐨𝐩 𝐏𝐚𝐭𝐭𝐞𝐫𝐧</h1></p>
- 
+    {/* <p style={{ margin: "0 10px" }}><h1>𝐓𝐫𝐢𝐩𝐥𝐞 𝐓𝐨𝐩 𝐏𝐚𝐭𝐭𝐞𝐫𝐧</h1></p> */}
+    <a style={{ margin: " 10px" }} className="navbar-brand fs-1 fw-bold" href="#">
+              <span style={{ color: "#00aeff" }}>Triple</span>
+              <span style={{ color: "#306e97" }}>Top</span>
+              <span style={{ color: "#00032e" }}>Pattern</span>
+            </a>
     <div style={{ flex: 1, backgroundColor: "#6F38C5", height: "3px" }} />
 </div>
+<br></br>
       <HoverCarousel images={images} />
     </div>
+    </>
   );
 };
 

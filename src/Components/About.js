@@ -9,11 +9,15 @@ const AboutUs = () => {
           <h2 className="text-3xl md:text-5xl font-bold text-amber-800 mb-4">
             About Us
           </h2>
+          <hr />
           <p className="text-lg md:text-xl text-gray-700 mb-8">
-          Welcome to my premier real estate agency, where our mission is to provide exceptional service and expertise to help our clients achieve their real estate goals. With years of experience in the industry, our team of dedicated professionals has built a reputation for excellence and integrity.
-            <br/>
-            <br/>
-          We are committed to staying up-to-date with the latest trends and technologies in the real estate market, and we use our knowledge and expertise to guide our clients through the buying and selling process with confidence.
+          We offer complete home health and hospice services here at TTP HEALTH, with a focus on dementia care. Contact us today at <a href="/" title="glorythemes">+91-82-333-9-3456</a> to learn more.
+            <br />
+            <br />
+          Heart failure is a complex clinical syndrome marked by insufficient cardiac function. In addition to abnormalities in the heart, dysfunction of other organs can impact the development and effects of heart failure. The heart and kidneys function together to get an adaptive response to cardiac pressure overload.
+          <br/>
+          <br/>
+          A recent study by the National Institutes of Health shows a dynamic network involving the heart, brain and kidneys that is needed to properly respond to cardiac stress.
           </p>
         </div>
       </div>
